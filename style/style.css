@@ -1,0 +1,68 @@
+.topfirst{
+    text-align: center;
+    background-color: blue;
+}
+
+
+ul{
+
+    font-size: 15px;
+}
+
+
+
+.col-md-4 h4{
+    font-size: 20px;
+}
+
+.col-md-4 h4 p{
+    font-size: 15px;
+    
+}
+.copyrigh p{
+    font-size: 12px;
+    text-align: center;
+}
+#reserve{
+    width: 78%;
+}
+@media(max-width:786px){
+    .media p{
+        display: none;
+    }
+    .media h5{
+        font-size: 2rem;
+        margin: 0;
+        padding: 0;
+    }
+    #fu p{
+        font-size: 2rem;
+        margin: 0;
+        padding: 0;
+    }
+    .media img{
+        width: 70px;
+        height: 70px;
+
+    }
+    .ul{
+        width: 50%;
+    }
+    .col-md-1{
+        width: 8.33%;
+    }
+    .table-2{
+        width: 50%;
+    }
+
+    .top-second{
+        width:50% ;
+    }
+    .btn-size{
+        width: 80%;
+    }
+    .brand{
+        text-align: start;
+    }
+
+}
